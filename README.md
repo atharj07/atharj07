@@ -12,4 +12,4 @@
 - 🔹 Disease Prediction System (ML + Streamlit)
 
 ## 📫 Connect with me
-- LinkedIn: (add your link)
+- LinkedIn: (linkedin.com/in/athar-wasi)
